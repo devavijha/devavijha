@@ -42,6 +42,6 @@ Feel free to connect with me on other magical platforms:
 
 ## 📬 How to Send a Magical Owl Mail
 
-Have questions, suggestions, or just want to chat about the latest coding spells? Shoot me an email at [your.email@example.com](mailto:neonyte17@gmail.com).
+Have questions, suggestions, or just want to chat about the latest coding spells? Shoot me an email at (mailto:neonyte17@gmail.com).
 
 Thanks for stopping by my mystical GitHub realm! 🧙‍♂️✨
