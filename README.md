@@ -1,6 +1,6 @@
 <div align="center">
 
- ═══════════════════════════════════════════════════════════════                      ABHISHEK JHA                THE ENGINEER WHO SHIPS                         ═══════════════════════════════════════════════════════════════ 
+ ═══════════════════════════════════════════════════════════════                                     THE ENGINEER WHO SHIPS                         ═══════════════════════════════════════════════════════════════ 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=1000&lines=Session+4:+The+AI+Builder+Arc;Full+Stack+Engineer;Building+Products+That+Matter;Training+To+Become+Legendary" />
 
