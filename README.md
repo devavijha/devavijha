@@ -125,7 +125,10 @@ Dangerous To Bugs  ████████████████████�
 
 # Communication Crystal
 
-Guild Connections  GitHub github.com/devavijha  LinkedIn linkedin.com/in/theabhishekkjha  Email abhishekjha1651@gmail.com 
+Guild Connections  
+GitHub github.com/devavijha  
+LinkedIn linkedin.com/in/theabhishekkjha  
+Email abhishekjha1651@gmail.com 
 
 ---
 
