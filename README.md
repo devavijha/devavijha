@@ -1,6 +1,5 @@
 <div align="center">
 
- ═══════════════════════════════════════════════════════════════                                     THE ENGINEER WHO SHIPS                         ═══════════════════════════════════════════════════════════════ 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=1000&lines=Session+4:+The+AI+Builder+Arc;Full+Stack+Engineer;Building+Products+That+Matter;Training+To+Become+Legendary" />
 
@@ -126,21 +125,31 @@ Dangerous To Bugs  ████████████████████�
 # Communication Crystal
 
 Guild Connections  
-GitHub github.com/devavijha  
-LinkedIn linkedin.com/in/theabhishekkjha  
-Email abhishekjha1651@gmail.com 
+GitHub: https://github.com/devavijha  
+LinkedIn: https://linkedin.com/in/theabhishekkjha  
+Email: abhishekjha1651@gmail.com 
 
 ---
 
 # Next Session Preview
 Session 5  
-Rise of the AI Architect  The journey continues...  New projects will emerge.  New challenges will appear.  The grind never ends. 
+Rise of the AI Architect  
+The journey continues...  
+New projects will emerge.  
+New challenges will appear.  
+The grind never ends. 
 
 ---
 
 <div align="center">
 
-while(alive) {     learn();     build();     ship();     evolve(); } 
+while(alive) 
+  {     
+    learn();     
+    build();     
+    ship();     
+      evolve(); 
+    } 
 
 ### TO BE CONTINUED...
 ### ▶ NEXT Session
