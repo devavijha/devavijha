@@ -131,15 +131,6 @@ Email: abhishekjha1651@gmail.com
 
 ---
 
-# Next Session Preview
-Session 5  
-Rise of the AI Architect  
-The journey continues...  
-New projects will emerge.  
-New challenges will appear.  
-The grind never ends. 
-
----
 
 <div align="center">
 
