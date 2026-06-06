@@ -13,13 +13,10 @@
 
 ---
 
-# Opening Narration
-
 In a world filled with unfinished side projects...  ->One engineer chose to keep building. 
 
 ---
 
-# Character Profile
 
 Name: Abhishek Jha [Software Engineer]  
 Specialization:   - Full Stack Development   - Artificial Intelligence   - Product Engineering  
@@ -27,8 +24,6 @@ Guild:   - Open Source   - AI Builders   - Product Developers
 Status:   - Grinding XP 
 
 ---
-
-# Character Stats
 
 Backend Engineering      ████████████████████ 95  
 AI Integration           ██████████████████░░ 90  
@@ -39,22 +34,11 @@ Sleep                    ███░░░░░░░░░░░░░░░�
 
 ---
 
-# Inventory
 
 Languages  ✓ Java ✓ Python ✓ JavaScript ✓ SQL   
 Frameworks  ✓ Node.js ✓ Express.js ✓ Flask ✓ Next.js  
 Databases  ✓ MongoDB ✓ MySQL   
 Artifacts  ✓ Git ✓ Linux ✓ Cursor ✓ Windsurf ✓ Ollama ✓ ONNX Runtime 
-
----
-
-# Story Arc Timeline
-
-Session 1 │ ├─ Discovered Programming │ └─ Began Learning Web Development   
-Session 2 │ ├─ Built First Projects │ └─ Learned Backend Engineering   
-Session 3 │ ├─ Entered AI Territory │ └─ Started Building Real Products   
-Session 4 │ ├─ Built Multiple Full Stack Systems │ ├─ Improved Product Thinking │ └─ Shipped Faster   
-Session 5 (Current) │ ├─ Building AI Applications ├─ Creating SaaS Platforms ├─ Exploring Open Source └─ Training Arc Continues... 
 
 ---
 
