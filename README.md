@@ -87,13 +87,6 @@ KINGDOM OF DEV  AI DISTRICT │ ├─ TechOverwatch ├─ Brain Tumor Detectio
 
 ---
 
-# Power Level Scanner
-
-Scanning...  ████████████████████████████████  Power Level Detected  Builder Class  Threat Level  
-Dangerous To Bugs  ████████████████████████████████ 
-
----
-
 # Training Progress
 
 <div align="center">
