@@ -87,17 +87,7 @@ KINGDOM OF DEV  AI DISTRICT │ ├─ TechOverwatch ├─ Brain Tumor Detectio
 
 ---
 
-# Training Progress
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devavijha&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=devavijha&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
 
 # Communication Crystal
 
